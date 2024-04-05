@@ -1,4 +1,4 @@
-# NOSQL_M1
+# NOSQL_M1_Project
 
 ## Objectives
 
